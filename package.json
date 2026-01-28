@@ -1,0 +1,11 @@
+{
+  "name": "ella-canvas-game",
+  "private": true,
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "start": "http-server . -p 3000 -c-1",
+    "dev": "http-server . -p 3000 -c-1"
+  }
+}
